@@ -186,14 +186,7 @@ Our API gateway gives your platform direct access to the industry leading game c
       <sub>Top slots with edge labels and quick launch</sub>
     </td>
   </tr>
-  <tr>
-    <td align="center" colspan="2" width="100%">
-      <img src="screenshots/slots-api-integration.png" alt="API Integration Panel" width="100%">
-      <br><br>
-      <b>Integration Dashboard</b><br>
-      <sub>Balance sync, callbacks, and audit trail</sub>
-    </td>
-  </tr>
+ 
 </table>
 
 
