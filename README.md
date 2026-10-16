@@ -286,7 +286,7 @@ You need your existing Minecraft server web panel (or XenForo, Tebex, or custom 
 
 ### ❓ Where can I see the full catalog of Mint Scripts products?
 
-Visit the official Mint Scripts shop at [mintscripts.net/en/shop](https://mintscripts.net/en/shop/) to browse the full catalog of scripts, integrations, and platforms.
+Visit the official Mint Scripts shop at [mintscripts.net/en/shop](https://mintscripts.net/en/market/) to browse the full catalog of scripts, integrations, and platforms.
 
 
 
@@ -311,15 +311,15 @@ Visit the official Mint Scripts shop at [mintscripts.net/en/shop](https://mintsc
       </a>
     </td>
     <td align="center" width="33%">
-      <a href="https://mintscripts.net/en/shop/">
+      <a href="https://mintscripts.net/en/market/">
         <b>🛒 Shop</b><br>
         <sub>Full catalog</sub>
       </a>
     </td>
     <td align="center" width="33%">
-      <a href="mailto:contact@mintscripts.net">
+      <a href="mailto:support@mintscripts.net">
         <b>📧 Email</b><br>
-        <sub>contact@mintscripts.net</sub>
+        <sub>support@mintscripts.net</sub>
       </a>
     </td>
   </tr>
